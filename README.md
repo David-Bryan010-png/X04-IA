@@ -4,7 +4,7 @@ Essa é uma inteligência artificial gratuita, mas gostaria que você me ajuda-s
 
 🚀 X04 — IA Assistente Android
 
-Esta é a primeira versão oficial do X03, um aplicativo de inteligência artificial criado para Android.
+Esta é a primeira versão oficial do X04, um aplicativo de inteligência artificial criado para Android.
 
 O X03 foi desenvolvido para atuar como um assistente inteligente, capaz de responder comandos, executar tarefas simples e servir como base para futuras evoluções de IA.
 
